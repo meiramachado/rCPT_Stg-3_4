@@ -1,4 +1,4 @@
-# Created by Meira Maria Machado, March 2025, using Excel macros created by M. Alex Coto.
+# Created by Meira Forcelini Machado, March 2025, using Excel macros created by M. Alex Coto.
 # This script was developed for behavioral data processing in rCPT experiments, converting ABET II raw files into binary files.
 #Line 62: change file prefix name to be identified from input folder
 #Lines 113 and 114: add input and output folder
