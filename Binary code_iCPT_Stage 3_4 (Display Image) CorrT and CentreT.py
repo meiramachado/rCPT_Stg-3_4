@@ -106,7 +106,7 @@ def generate_binary_file(input_folder, output_folder, filename_prefix="TCN"):
 
 if __name__ == "__main__":
     # Example paths - replace with your actual paths
-    input_path = "/Users/meiramaria/Documents/Data/Meira photometry/CPT - Dopamine/CPT/Stage 4/Stage 4 - S5/untitled folder"
-    output_path = "/Users/meiramaria/Documents/Data/Meira photometry/CPT - Dopamine/CPT/Stage 4/Stage 4 - S5/untitled folder"
+    input_path = "add your folder path"
+    output_path = "add your folder path"
 
     generate_binary_file(input_folder=input_path, output_folder=output_path)
